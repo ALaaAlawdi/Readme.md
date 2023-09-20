@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaa Abdu Saleh Alawdi</h1>
 <h3 align="center">A passionate data science and NLP engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaalawdi&label=Profile%20views&color=0e75b6&style=flat" alt="alaaalawdi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaaalawdi" alt="alaaalawdi" /></a> </p>
-
-- 🔭 I’m currently working on **chatbot education**
-
-- 🌱 I’m currently learning **langchain pytorch**
-
-- 💬 Ask me about **NLP**
-
-- 📫 How to reach me **AlaaAlawdi01@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
 ### About Me 📊
 A results-driven 4th-year CS student with a passion for data science, possessing hands-on experience in 5+ projects applying diverse data science concepts with PyTorch , Tensorflow and Keras and ML algorithms with Scikit-Learn. I am interested in following and reading the latest research , theory and best practices in the field. Seeking a challenging data science role in a large enterprise to drive impact, learn, and collaborate with a talented team.
 
